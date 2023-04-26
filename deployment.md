@@ -49,19 +49,38 @@ Also, we will use some instant messaging tools to keep the communication between
 
 ## Environment Overview:
 
-<h2>infrastructure architect</h2>
+<h2>Infrastructure Architect</h2>
 
 
 <h3>Local Environment</h3>
-<p><i>E.g. WordPress</i></p>
+<p><i>localhost E.g. WordPress</i></p>
 <ul>
-    <li>- Analyze local error logs</li>
-    <li>- Troubleshooting WordPress Email Issues</li>
-    <li>- Check for broken links</li>
-    <li>- Main storage of WordPress main state</li>
-    <li>- Control access for permission of edit the backend storage</li>
-    <li>- Implement and store the php</li>
-    <li>- Store the main data that have huge size</li>
+    <li>Analyze local error logs</li>
+    <li>Troubleshooting WordPress Email Issues</li>
+    <li>Check for broken links</li>
+    <li>Main storage of WordPress main state</li>
+    <li>Control access for permission of edit the backend storage</li>
+    <li>Implement and store the php</li>
+    <li>Store the main data that have huge size</li>
 </ul>
 
 <h3>Hosted Environment</h3>
+
+<p><i>X10</i></p>
+<p>Pros</p>
+<ul>
+    <li>99.9% uptime SLA</li>
+    <li>SSD storage</li>
+    <li>Free domain and SSL certificate with long-term contracts</li>
+    <li>Free hosting service</li>
+</ul>
+
+<p>Cons</p>
+<ul>
+    <li>Unresponsive customer support</li>
+    <li>No ability to cancel your contract</li>
+
+</ul>
+
+
+
