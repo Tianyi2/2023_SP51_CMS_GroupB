@@ -4,7 +4,7 @@ The main functions of the website are []
 Our website is mainly written using WordPress, and we will use some plugins to enhance some functions of the website.
 Also, we will use some instant messaging tools to keep the communication between the group to keep our work and keep the website updated in real time.
 
-## Project management
+## Project Management
 
 **Github**:
 **Discord**:
@@ -12,10 +12,11 @@ Also, we will use some instant messaging tools to keep the communication between
 **Figma**:
 **Miro**:
 
-## Version control: 
+## Version Control
 
-<p>GitHub: We will update the project on Github after each modification, and manage files on Github.</p>
-<p>Trello: We assign all tasks and record and iterate on Trello.</p>
+<p>GitHub: We will update the project on Github after each modification, and manage files on Github.[1]</p>
+<p>Trello: We assign all tasks, record and iterate on Trello.[2]</p>
+<p>Miro Board: We assign all tasks, sketches and plans on Miro Board.[3]</p>
 
 ## Testing
 
@@ -30,12 +31,18 @@ Also, we will use some instant messaging tools to keep the communication between
 <li>Include bullet points, short paragraphs, and enough white space for visual appeal and easy navigation</li>
 <li>Clean up spelling and grammar mistakes</li>
 </ul>
-
+[4]
 
 ## Automation
 
-<p>Website automation is a way to automate common web actions-like filling out forms, clicking on buttons, downloading files-and hands them over to helpful software bots. While the internet makes doing business faster and easier in countless ways, these actions can be time consuming and prone to errors.</p>
+<p>Website automation is a way to automate common web actions-like filling out forms, clicking on buttons, downloading files-and hands them over to helpful software bots. While the internet makes doing business faster and easier in countless ways, these actions can be time consuming and prone to errors.[5]</p>
 
 ## Reference
 
-<p></p>
+<ul>
+<li><a href="https://github.com/Tianyi2/2023_SP51_CMS_GroupB">1. Visit Our Github</a></li>
+<li><a href="https://trello.com/invite/b/yb2bk5GC/ATTIea37c78a50d9dc8690e77df3b685c368A2789FF8/3402-ass2">2. Visit Our Trello</a></li>
+<li><a href="https://miro.com/welcomeonboard/T3AxU2VZNHVOTTY0TkpCa3k3d1o5dU9pdGk2WkZ1N3VxZlhiSUFNdHB2aTdVZDYxWWo0UFE3MVM3RG5nWHlDcXwzNDU4NzY0NTE0MzYwOTk4OTMwfDI=?share_link_id=199624583707">3. Visit Our Miro Board</a></li>
+<li><a href="https://www.browserstack.com/guide/testing-checklist-for-website-launch">4. 5 Tests You Must Run Before Launching A Website</a></li>
+<li><a href="https://www.fortra.com/product-lines/automate/use/web-browser-automation">5. Website Automation</a></li>
+</ul>
