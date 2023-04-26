@@ -20,11 +20,11 @@ Also, we will use some instant messaging tools to keep the communication between
 
 ## Testing
 
-<p>[4]<b>Browser Testing:</b> Despite device and browser fragmentation in general, websites need to be cross-browser compatible with a large number of devices. This means that website functionality must be tested on multiple device-browser-OS combinations.</p>
-<p><b>Responsive Design Testing:</b> Google's mobile-first indexing policy states that instead of looking at the desktop version of a site, it crawls and indexes the mobile version of the site. Essentially, search engines crawl and index pages based on how they appear on mobile devices, not desktops.</p>
-<p><b>Speed Testing:</b> It doesn't matter how great a website is in terms of content or graphics. According to Google's Maile Ohye, "2 seconds is an acceptable threshold for e-commerce sites. At Google, we aim for less than half a second."</p>
-<p><b>Broken Link Testing:</b> If the link exists on the site, it should work. Failure to do so can damage the credibility of the website and the brand behind it. Make sure all internal and external links work and direct users to the intended page. Continue to check your site for broken links intermittently, especially after adding new content.</p>
-<p><b>Readability Testing:</b> It makes no difference if the most professionally written and designed content on a website is unreadable. This test audits the content of a website to determine whether the content:</p>
+<p><b>Browser Testing:</b> Despite device and browser fragmentation in general, websites need to be cross-browser compatible with a large number of devices. This means that website functionality must be tested on multiple device-browser-OS combinations.[4]</p>
+<p><b>Responsive Design Testing:</b> Google's mobile-first indexing policy states that instead of looking at the desktop version of a site, it crawls and indexes the mobile version of the site. Essentially, search engines crawl and index pages based on how they appear on mobile devices, not desktops.[4]</p>
+<p><b>Speed Testing:</b> It doesn't matter how great a website is in terms of content or graphics. According to Google's Maile Ohye, "2 seconds is an acceptable threshold for e-commerce sites. At Google, we aim for less than half a second."[4]</p>
+<p><b>Broken Link Testing:</b> If the link exists on the site, it should work. Failure to do so can damage the credibility of the website and the brand behind it. Make sure all internal and external links work and direct users to the intended page. Continue to check your site for broken links intermittently, especially after adding new content.[4]</p>
+<p><b>Readability Testing:</b> It makes no difference if the most professionally written and designed content on a website is unreadable. This test audits the content of a website to determine whether the content:[4]</p>
 
 <ul>
 <li>Perfect size for easy reading by visitors</li>
