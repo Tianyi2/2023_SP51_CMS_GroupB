@@ -53,7 +53,7 @@ Also, we will use some instant messaging tools to keep the communication between
 
 
 <h3>Local Environment</h3>
-<p><i>localhost E.g. WordPress</i></p>
+<p><i><b>localhost E.g. WordPress</b></i></p>
 <ul>
     <li>Analyze local error logs</li>
     <li>Troubleshooting WordPress Email Issues</li>
@@ -66,7 +66,22 @@ Also, we will use some instant messaging tools to keep the communication between
 
 <h3>Hosted Environment</h3>
 
-<p><i>X10</i></p>
+<p><i><b>AWS</b></i></p>
+<p>Amazon S3</p>
+<ul>
+    <li>The full name is Amazon Easy Storage Service.</li>
+    <li>It is a network online storage service provided by Amazon using its Amazon Web Services system.</li>
+    <li>Via web service interfaces including REST, SOAP and BitTorrent.</li>
+</ul>
+
+<p>Amazon EC2</p>
+<ul>
+    <li>The full name is Amazon Elastic Compute Cloud.</li>
+    <li>It is a Web service provided by Amazon. It is a system that allows users to rent cloud computers to run the required applications.</li>
+    <li>EC2 allows users to flexibly run their own Amazon machine image files by providing web services.</li>
+</ul>
+
+<p><i><b>X10</b></i></p>
 <p>Pros</p>
 <ul>
     <li>99.9% uptime SLA</li>
