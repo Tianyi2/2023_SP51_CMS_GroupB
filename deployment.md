@@ -46,3 +46,22 @@ Also, we will use some instant messaging tools to keep the communication between
 <li><a href="https://www.browserstack.com/guide/testing-checklist-for-website-launch">4. 5 Tests You Must Run Before Launching A Website</a></li>
 <li><a href="https://www.fortra.com/product-lines/automate/use/web-browser-automation">5. Website Automation</a></li>
 </ul>
+
+## Environment Overview:
+
+<h2>infrastructure architect</h2>
+
+
+<h3>Local Environment</h3>
+<p><i>E.g. WordPress</i></p>
+<ul>
+    <li>- Analyze local error logs</li>
+    <li>- Troubleshooting WordPress Email Issues</li>
+    <li>- Check for broken links</li>
+    <li>- Main storage of WordPress main state</li>
+    <li>- Control access for permission of edit the backend storage</li>
+    <li>- Implement and store the php</li>
+    <li>- Store the main data that have huge size</li>
+</ul>
+
+<h3>Hosted Environment</h3>
