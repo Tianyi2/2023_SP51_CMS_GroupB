@@ -38,12 +38,48 @@
 
 ### Design of each page
 1. Home page
-  - Description of the home page
-  - 
+  - Image (Welcome to BAIZONN) + Button (Maybe can scroll) + Promotion?
+  - Recent Event + Button
+  - Explore our Programmes (Subjects we Provide + Button)
+  - Why us?
+    - General Description of us
+    - Our principles… (Descriptiion + image from content)
+    - FAST (Key Features of Our Curriculum) (four columns)
+    - STEM (Description + image from content)
+    - Button to About Us
+  - Classroom images
+  - Awards (brief)
+  - Video
+  - Button to Contact Us / Schedule
+
 2. About Us
-  - De
-  - 
-......
+  - Image + Button (According to the Centre Logo 9) 
+  - The three paragraphs (Image + text + button?)
+  - Teaching Philosophy
+  - Our Teachers
+  - Awards (Detail -- images + descriptiion)
+  - Academice Partner
+  - Button to Contact Us / Schedule…
+
+3. News
+  - Static page + WP Blog?
+  - Event (Tag Event)
+  - Promotion (Tag Promotion)
+  - Awards (Tag awards)
+
+4. Schedule / Our Programmes / Programmes / Program
+  - Subject offeres (subjects)
+  - Monthly fees
+  - Time Table with filter (All subject / according to level)
+
+5. Registration
+  - Registration contact form
+  - A block (button link to contact us page)
+
+6. Contact Us
+  - Contact Details (Side by side)
+  - Contact Form (Side by side)
+  - The location + Direction for the three vehicles
 
 
 ### Typology
