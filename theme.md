@@ -18,9 +18,10 @@
 #### Pages: 
 1. Home 
 2. About Us
-3. Registration (Contact Us)
-4. Schedule 
-5. ... (have not decided)
+3. News
+4. Schedule / Our Programmes / Programmes / Program 
+5. Registration (Contact Us)
+6. ... (have not decided)
 
 #### Contents: 
 1. Recent Event
@@ -36,10 +37,12 @@
 
 
 ### Design of each page
-...... (General description of what content should be in which page)
-Introduction (What are the pages...)
-- Home page
+1. Home page
   - Description of the home page
+  - 
+2. About Us
+  - De
+  - 
 ......
 
 
