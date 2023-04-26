@@ -56,7 +56,7 @@
   - Image + Button (According to the Centre Logo 9) 
   - The three paragraphs (Image + text + button?)
   - Teaching Philosophy
-  - Our Teachers
+  - Our Teachers（Qualifications, Achievements and Awards）
   - Awards (Detail -- images + descriptiion)
   - Academice Partner
   - Button to Contact Us / Schedule…
@@ -79,7 +79,7 @@
 #### 6. Contact Us
   - Contact Details (Side by side)
   - Contact Form (Side by side)
-  - The location + Direction for the three vehicles
+  - The location + Direction for the three vehicles（The map plugin can show the customer's address and our address）
 
 
 ### Typology
