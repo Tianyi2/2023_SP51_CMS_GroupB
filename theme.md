@@ -37,7 +37,7 @@
 
 
 ### Design of each page
-1. Home page
+#### 1. Home page
   - Image (Welcome to BAIZONN) + Button (Maybe can scroll) + Promotion?
   - Recent Event + Button
   - Explore our Programmes (Subjects we Provide + Button)
@@ -52,7 +52,7 @@
   - Video
   - Button to Contact Us / Schedule
 
-2. About Us
+#### 2. About Us
   - Image + Button (According to the Centre Logo 9) 
   - The three paragraphs (Image + text + button?)
   - Teaching Philosophy
@@ -61,22 +61,22 @@
   - Academice Partner
   - Button to Contact Us / Schedule…
 
-3. News
+#### 3. News
   - Static page + WP Blog?
   - Event (Tag Event)
   - Promotion (Tag Promotion)
   - Awards (Tag awards)
 
-4. Schedule / Our Programmes / Programmes / Program
+#### 4. Schedule / Our Programmes / Programmes / Program
   - Subject offeres (subjects)
   - Monthly fees
   - Time Table with filter (All subject / according to level)
 
-5. Registration
+#### 5. Registration
   - Registration contact form
   - A block (button link to contact us page)
 
-6. Contact Us
+#### 6. Contact Us
   - Contact Details (Side by side)
   - Contact Form (Side by side)
   - The location + Direction for the three vehicles
