@@ -27,3 +27,7 @@
 <li>Clean up spelling and grammar mistakes</li>
 </ul>
 
+
+## automation
+
+<p>Website automation is a way to automate common web actions-like filling out forms, clicking on buttons, downloading files-and hands them over to helpful software bots. While the internet makes doing business faster and easier in countless ways, these actions can be time consuming and prone to errors.</p>
