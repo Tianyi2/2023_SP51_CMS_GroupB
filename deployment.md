@@ -37,16 +37,6 @@ Also, we will use some instant messaging tools to keep the communication between
 
 <p>Website automation is a way to automate common web actions-like filling out forms, clicking on buttons, downloading files-and hands them over to helpful software bots. While the internet makes doing business faster and easier in countless ways, these actions can be time consuming and prone to errors.[5]</p>
 
-## Reference
-
-<ul>
-<li><a href="https://github.com/Tianyi2/2023_SP51_CMS_GroupB">1. Visit Our Github</a></li>
-<li><a href="https://trello.com/invite/b/yb2bk5GC/ATTIea37c78a50d9dc8690e77df3b685c368A2789FF8/3402-ass2">2. Visit Our Trello</a></li>
-<li><a href="https://miro.com/welcomeonboard/T3AxU2VZNHVOTTY0TkpCa3k3d1o5dU9pdGk2WkZ1N3VxZlhiSUFNdHB2aTdVZDYxWWo0UFE3MVM3RG5nWHlDcXwzNDU4NzY0NTE0MzYwOTk4OTMwfDI=?share_link_id=199624583707">3. Visit Our Miro Board</a></li>
-<li><a href="https://www.browserstack.com/guide/testing-checklist-for-website-launch">4. 5 Tests You Must Run Before Launching A Website</a></li>
-<li><a href="https://www.fortra.com/product-lines/automate/use/web-browser-automation">5. Website Automation</a></li>
-</ul>
-
 ## Environment Overview:
 
 <h2>Infrastructure Architect</h2>
@@ -67,14 +57,14 @@ Also, we will use some instant messaging tools to keep the communication between
 <h3>Hosted Environment</h3>
 
 <p><i><b>AWS</b></i></p>
-<p>Amazon S3</p>
+<p>Amazon S3[6]</p>
 <ul>
     <li>The full name is Amazon Easy Storage Service.</li>
     <li>It is a network online storage service provided by Amazon using its Amazon Web Services system.</li>
     <li>Via web service interfaces including REST, SOAP and BitTorrent.</li>
 </ul>
 
-<p>Amazon EC2</p>
+<p>Amazon EC2[7]</p>
 <ul>
     <li>The full name is Amazon Elastic Compute Cloud.</li>
     <li>It is a Web service provided by Amazon. It is a system that allows users to rent cloud computers to run the required applications.</li>
@@ -82,7 +72,7 @@ Also, we will use some instant messaging tools to keep the communication between
 </ul>
 
 <p><i><b>X10</b></i></p>
-<p>Pros</p>
+<p>Pros[8]</p>
 <ul>
     <li>99.9% uptime SLA</li>
     <li>SSD storage</li>
@@ -90,12 +80,22 @@ Also, we will use some instant messaging tools to keep the communication between
     <li>Free hosting service</li>
 </ul>
 
-<p>Cons</p>
+<p>Cons[8]</p>
 <ul>
     <li>Unresponsive customer support</li>
     <li>No ability to cancel your contract</li>
 
 </ul>
 
+## Reference
 
-
+<ul>
+<li><a href="https://github.com/Tianyi2/2023_SP51_CMS_GroupB">1. Visit Our Github</a></li>
+<li><a href="https://trello.com/invite/b/yb2bk5GC/ATTIea37c78a50d9dc8690e77df3b685c368A2789FF8/3402-ass2">2. Visit Our Trello</a></li>
+<li><a href="https://miro.com/welcomeonboard/T3AxU2VZNHVOTTY0TkpCa3k3d1o5dU9pdGk2WkZ1N3VxZlhiSUFNdHB2aTdVZDYxWWo0UFE3MVM3RG5nWHlDcXwzNDU4NzY0NTE0MzYwOTk4OTMwfDI=?share_link_id=199624583707">3. Visit Our Miro Board</a></li>
+<li><a href="https://www.browserstack.com/guide/testing-checklist-for-website-launch">4. 5 Tests You Must Run Before Launching A Website</a></li>
+<li><a href="https://www.fortra.com/product-lines/automate/use/web-browser-automation">5. Website Automation</a></li>
+<li><a href="https://zh.wikipedia.org/zh-cn/Amazon_S3">6. Amazon S3</a></li>
+<li><a href="https://zh.wikipedia.org/zh-cn/Amazon_EC2">7. Amazon S3</a></li>
+<li><a href="https://www.websiteplanet.com/web-hosting/x10hosting/">8. X10Hosting Review 2023 - Is It Worth It?</a></li>
+</ul>
