@@ -8,7 +8,9 @@ Such that: Theme Design is about....
 2. Sketch out the theme design with paper and pen (lo-Fi theme prototype)
 3. Create a hi-Fi prototype (Figma)
 
-
+#####  Before Your Theme Development
+1. Check the team's progress according to the theme development workflow.
+2. Develop the theme with the help of the previous prototype (for example, when creating the lo-Fi prototype, you should look at the Design of each page)
 
 
 ## Theme Origin
