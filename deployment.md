@@ -96,6 +96,6 @@ Also, we will use some instant messaging tools to keep the communication between
 <li><a href="https://www.browserstack.com/guide/testing-checklist-for-website-launch">4. 5 Tests You Must Run Before Launching A Website</a></li>
 <li><a href="https://www.fortra.com/product-lines/automate/use/web-browser-automation">5. Website Automation</a></li>
 <li><a href="https://zh.wikipedia.org/zh-cn/Amazon_S3">6. Amazon S3</a></li>
-<li><a href="https://zh.wikipedia.org/zh-cn/Amazon_EC2">7. Amazon S3</a></li>
+<li><a href="https://zh.wikipedia.org/zh-cn/Amazon_EC2">7. Amazon EC2</a></li>
 <li><a href="https://www.websiteplanet.com/web-hosting/x10hosting/">8. X10Hosting Review 2023 - Is It Worth It?</a></li>
 </ul>
