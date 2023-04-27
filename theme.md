@@ -1,5 +1,16 @@
 # Theme development Overview
-..... (Introduction)
+You will find all the details you require in this document to work with others to develop the theme. Read through the document carefully before the theme development.
+
+##### Theme Development Workflow
+1. Describe the component on each page in words [(**`Design of each page`**)](#design-of-each-page)
+2. Sketch out the theme design with paper and pen [(**`lo-Fi theme prototype`**)](https://github.com/Tianyi2/2023_SP51_CMS_GroupB/tree/main/lo-Fi%20theme%20prototype)
+3. Create a hi-Fi prototype (**`Figma`**)
+4. Develop the actual theme in code (**`wp-content`**)
+
+#####  Before Your Theme Development
+1. Check the team's progress according to the theme development workflow.
+2. Develop the theme with the help of the previous prototype (for example, when creating the **`lo-Fi prototype`**, you should look at the **`Design of each page`**)
+3. When developing the actual theme in code, please check the [**`deployment.md`**](https://github.com/Tianyi2/2023_SP51_CMS_GroupB/blob/main/deployment.md) for more information on code testing. 
 
 
 ## Theme Origin
@@ -37,7 +48,7 @@
 
 
 ### Design of each page
-#### 1. Home page
+##### 1. Home page
   - Image (Welcome to BAIZONN) + Button (Maybe can scroll) + Promotion?
   - Recent Event + Button
   - Explore our Programmes (Subjects we Provide + Button)
@@ -52,7 +63,7 @@
   - Video
   - Button to Contact Us / Schedule
 
-#### 2. About Us
+##### 2. About Us
   - Image + Button (According to the Centre Logo 9) 
   - The three paragraphs (Image + text + button?)
   - Teaching Philosophy
@@ -61,22 +72,22 @@
   - Academice Partner
   - Button to Contact Us / Schedule…
 
-#### 3. News
+##### 3. News
   - Static page + WP Blog?
   - Event (Tag Event)
   - Promotion (Tag Promotion)
   - Awards (Tag awards)
 
-#### 4. Schedule / Our Programmes / Programmes / Program
+##### 4. Schedule / Our Programmes / Programmes / Program
   - Subject offeres (subjects)
   - Monthly fees
   - Time Table with filter (All subject / according to level)
 
-#### 5. Registration
+##### 5. Registration
   - Registration contact form
   - A block (button link to contact us page)
 
-#### 6. Contact Us
+##### 6. Contact Us
   - Contact Details (Side by side)
   - Contact Form (Side by side)
   - The location + Direction for the three vehicles（The map plugin can show the customer's address and our address）
