@@ -1,5 +1,16 @@
 # Theme development Overview
-..... (Introduction)
+...... (Summarize what is inside each sub-title, and guide the new developer to follow up and design the theme.)
+Such that: Theme Design is about....
+            Please check the Design of each page to understand the what content needed to be included, and view the lo-fi prototype in XXX file and code the theme.
+
+##### Theme Development Workflow
+1. Describe the component on each page in words [(**`Design of each page`**)](#design-of-each-page)
+2. Sketch out the theme design with paper and pen (**`lo-Fi theme prototype`**)
+3. Create a hi-Fi prototype (**`Figma`**)
+
+#####  Before Your Theme Development
+1. Check the team's progress according to the theme development workflow.
+2. Develop the theme with the help of the previous prototype (for example, when creating the **`lo-Fi prototype`**, you should look at the **`Design of each page`**)
 
 
 ## Theme Origin
@@ -18,9 +29,10 @@
 #### Pages: 
 1. Home 
 2. About Us
-3. Registration (Contact Us)
-4. Schedule 
-5. ... (have not decided)
+3. News
+4. Schedule / Our Programmes / Programmes / Program 
+5. Registration (Contact Us)
+6. ... (have not decided)
 
 #### Contents: 
 1. Recent Event
@@ -36,11 +48,49 @@
 
 
 ### Design of each page
-...... (General description of what content should be in which page)
-Introduction (What are the pages...)
-- Home page
-  - Description of the home page
-......
+##### 1. Home page
+  - Image (Welcome to BAIZONN) + Button (Maybe can scroll) + Promotion?
+  - Recent Event + Button
+  - Explore our Programmes (Subjects we Provide + Button)
+  - Why us?
+    - General Description of us
+    - Our principles… (Descriptiion + image from content)
+    - FAST (Key Features of Our Curriculum) (four columns)
+    - STEM (Description + image from content)
+    - Button to About Us
+  - Classroom images
+  - Awards (brief)
+  - Video
+  - Button to Contact Us / Schedule
+
+##### 2. About Us
+  - Image + Button (According to the Centre Logo 9) 
+  - The three paragraphs (Image + text + button?)
+  - Teaching Philosophy
+  - Our Teachers（Qualifications, Achievements and Awards）
+  - Awards (Detail -- images + descriptiion)
+  - Academice Partner
+  - Button to Contact Us / Schedule…
+
+##### 3. News
+  - Static page + WP Blog?
+  - Event (Tag Event)
+  - Promotion (Tag Promotion)
+  - Awards (Tag awards)
+
+##### 4. Schedule / Our Programmes / Programmes / Program
+  - Subject offeres (subjects)
+  - Monthly fees
+  - Time Table with filter (All subject / according to level)
+
+##### 5. Registration
+  - Registration contact form
+  - A block (button link to contact us page)
+
+##### 6. Contact Us
+  - Contact Details (Side by side)
+  - Contact Form (Side by side)
+  - The location + Direction for the three vehicles（The map plugin can show the customer's address and our address）
 
 
 ### Typology
