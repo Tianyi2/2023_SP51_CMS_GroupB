@@ -67,7 +67,7 @@ You will find all the details you require in this document to work with others t
   - Image + Button (According to the Centre Logo 9) 
   - The three paragraphs (Image + text + button?)
   - Teaching Philosophy
-  - Our Teachers（Qualifications, Achievements and Awards）
+  - Our Teachers（Qualifications, Achievements, Awards, and previous career introductions?）
   - Awards (Detail -- images + descriptiion)
   - Academice Partner
   - Button to Contact Us / Schedule…
@@ -98,7 +98,7 @@ You will find all the details you require in this document to work with others t
 
 
 ### Colour
-
+White and green（Match the color of the logo）?
 
 ### Structure
 ..... (Padding, margins used in each page)
