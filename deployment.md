@@ -40,7 +40,7 @@ Also, we will use some instant messaging tools to keep the communication between
 ## Environment Overview:
 
 <h2>Infrastructure Architect</h2>
-
+<p><img align="left" src="https://ibb.co/M9v5mCT" alt="infra" /></p>
 
 <h3>Local Environment</h3>
 <p><i><b>localhost E.g. WordPress</b></i></p>
@@ -84,7 +84,6 @@ Also, we will use some instant messaging tools to keep the communication between
 <ul>
     <li>Unresponsive customer support</li>
     <li>No ability to cancel your contract</li>
-
 </ul>
 
 ## Reference
