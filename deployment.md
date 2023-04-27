@@ -40,7 +40,7 @@ Also, we will use some instant messaging tools to keep the communication between
 ## Environment Overview:
 
 <h2>Infrastructure Architect</h2>
-<p><img align="left" src="https://ibb.co/M9v5mCT" alt="infra" /></p>
+<p><img align="left" src="https://ibb.co/M9v5mCT/Development Workflow.jpge" alt="infra" /></p>
 
 <h3>Local Environment</h3>
 <p><i><b>localhost E.g. WordPress</b></i></p>
