@@ -7,10 +7,12 @@ Such that: Theme Design is about....
 1. Describe the component on each page in words [(**`Design of each page`**)](#design-of-each-page)
 2. Sketch out the theme design with paper and pen (**`lo-Fi theme prototype`**)
 3. Create a hi-Fi prototype (**`Figma`**)
+4. Develop the actual theme in code (**`wp-content`**)
 
 #####  Before Your Theme Development
 1. Check the team's progress according to the theme development workflow.
 2. Develop the theme with the help of the previous prototype (for example, when creating the **`lo-Fi prototype`**, you should look at the **`Design of each page`**)
+3. When developing the actual theme in code, please check the [**`deployment.md`**](https://github.com/Tianyi2/2023_SP51_CMS_GroupB/blob/main/deployment.md) for more information on code testing. 
 
 
 ## Theme Origin
