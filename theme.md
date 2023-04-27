@@ -1,5 +1,7 @@
 # Theme development Overview
-..... (Introduction)
+...... (Summarize what is inside each sub-title, and guide the new developer to follow up and design the theme.)
+Such that: Theme Design is about....
+            Please check the Design of each page to understand the what content needed to be included, and view the lo-fi prototype in XXX file and code the theme.
 
 
 ## Theme Origin
