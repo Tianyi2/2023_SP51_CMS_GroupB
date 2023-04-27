@@ -3,6 +3,13 @@
 Such that: Theme Design is about....
             Please check the Design of each page to understand the what content needed to be included, and view the lo-fi prototype in XXX file and code the theme.
 
+##### Theme Development Workflow
+1. Describe the component on each page in words (Design of each page)
+2. Sketch out the theme design with paper and pen (lo-Fi theme prototype)
+3. Create a hi-Fi prototype (Figma)
+
+
+
 
 ## Theme Origin
 ..... (Where did we start the theme design)
