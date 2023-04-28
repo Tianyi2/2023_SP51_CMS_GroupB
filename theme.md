@@ -52,7 +52,7 @@ Based on the client-provided content, we build our theme. The content the client
 ### Design of each page
 ##### 1. Home page
   - Image (Welcome to BAIZONN) + Button (Maybe can scroll) + Promotion?
-  - Recent Event + Button
+  - Event + Button
   - Explore our Programmes (Subjects we Provide + Button)
   - Why us?
     - General Description of us
@@ -74,22 +74,16 @@ Based on the client-provided content, we build our theme. The content the client
   - Academice Partner
   - Button to Contact Us / Schedule…
 
-##### 3. News
-  - Static page + WP Post
-  - Event (Tag Event)
-  - Promotion (Tag Promotion)
-  - Awards (Tag awards)
-
-##### 4. Classes (Schedule / Our Programmes / Programmes / Program)
+##### 3. Classes (Schedule / Our Programmes / Programmes / Program)
   - Subject offeres (subjects)
   - Monthly fees
   - Time Table with filter (All subject / according to level)
 
-##### 5. Registration
+##### 4. Registration
   - Registration contact form
   - A block (button link to contact us page)
 
-##### 6. Contact Us
+##### 5. Contact Us
   - Contact Details (Side by side)
   - Contact Form (Side by side)
   - The location + Direction for the three vehicles（The map plugin can show the customer's address and our address）
