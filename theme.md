@@ -23,7 +23,7 @@ You will find all the details you require in this document to work with others t
 
 
 ## Theme Design
-...... (General description of how we design our theme)
+Based on the client-provided content, we build our theme. The content the client wishes to offer on the website is the first thing we look through and note down. Then, we use blocks to draw out the arrangement of each component. We build the theme in Figma and code it out after some discussions.
 
 
 ### Things to include
