@@ -95,8 +95,8 @@ Based on the client-provided content, we build our theme. The content the client
 
 
 ### Colour
-Green: #4CAE6A
-Blue: #206FA3
+Green: #4CAE6A, #72EFE9
+Blue: #206FA3, #206FA3
 White: #FFFFFF
 Black: #000000
 
