@@ -80,7 +80,7 @@ Based on the client-provided content, we build our theme. The content the client
   - Time Table with filter (All subject / according to level)
 
 ##### 4. Registration
-  - Registration contact form
+  - Our achievements
   - Registration contact form
   - A block (button link to contact us page)
 
