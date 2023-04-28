@@ -99,7 +99,11 @@ Based on the client-provided content, we build our theme. The content the client
 
 
 ### Colour
-White and green（Match the color of the logo）?
+Green: #4CAE6A
+Blue: #206FA3
+White: #FFFFFF
+Black: #000000
+
 
 ### Structure
 ..... (Padding, margins used in each page)
