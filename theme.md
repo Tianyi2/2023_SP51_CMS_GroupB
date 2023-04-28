@@ -81,6 +81,7 @@ Based on the client-provided content, we build our theme. The content the client
 
 ##### 4. Registration
   - Registration contact form
+  - Registration contact form
   - A block (button link to contact us page)
 
 ##### 5. Contact Us
