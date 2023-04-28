@@ -107,6 +107,8 @@ Black: #000000
 
 
 ### Structure
-..... (Padding, margins used in each page)
+1. Design the component/content as blocks; each content should be inside an individual block.
+2. The block width should be 1150px / 90vw.
+3. Leave 40-60px margin between each block.
 
 
