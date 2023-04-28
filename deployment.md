@@ -40,7 +40,7 @@ Also, we will use some instant messaging tools to keep the communication between
 ## Environment Overview:
 
 <h2>Infrastructure Architect</h2>
-
+<a><img src="https://i.ibb.co/520xPRD/Development-Workflow.jpg" alt="Development-Workflow" border="0"></a>
 
 <h3>Local Environment</h3>
 <p><i><b>localhost E.g. WordPress</b></i></p>
@@ -84,7 +84,6 @@ Also, we will use some instant messaging tools to keep the communication between
 <ul>
     <li>Unresponsive customer support</li>
     <li>No ability to cancel your contract</li>
-
 </ul>
 
 ## Reference
@@ -96,6 +95,6 @@ Also, we will use some instant messaging tools to keep the communication between
 <li><a href="https://www.browserstack.com/guide/testing-checklist-for-website-launch">4. 5 Tests You Must Run Before Launching A Website</a></li>
 <li><a href="https://www.fortra.com/product-lines/automate/use/web-browser-automation">5. Website Automation</a></li>
 <li><a href="https://zh.wikipedia.org/zh-cn/Amazon_S3">6. Amazon S3</a></li>
-<li><a href="https://zh.wikipedia.org/zh-cn/Amazon_EC2">7. Amazon S3</a></li>
+<li><a href="https://zh.wikipedia.org/zh-cn/Amazon_EC2">7. Amazon EC2</a></li>
 <li><a href="https://www.websiteplanet.com/web-hosting/x10hosting/">8. X10Hosting Review 2023 - Is It Worth It?</a></li>
 </ul>
