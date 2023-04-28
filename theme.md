@@ -91,7 +91,9 @@ Based on the client-provided content, we build our theme. The content the client
 
 
 ### Typology
-...... (Font style, font family, font weight, font size, spacings in each page)
+1. Use **Arial** for heading (titles)
+2. Use **Lota** for text
+3. ...... (Font style, font family, font weight, font size, spacings in each page)
 
 
 ### Colour
