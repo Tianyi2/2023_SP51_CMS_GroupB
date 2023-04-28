@@ -8,9 +8,10 @@ You will find all the details you require in this document to work with others t
 4. Develop the actual theme in code (**`wp-content`**)
 
 #####  Before Your Theme Development
-1. Check the team's progress according to the theme development workflow.
-2. Develop the theme with the help of the previous prototype (for example, when creating the **`lo-Fi prototype`**, you should look at the **`Design of each page`**)
-3. When developing the actual theme in code, please check the [**`deployment.md`**](https://github.com/Tianyi2/2023_SP51_CMS_GroupB/blob/main/deployment.md) for more information on code testing. 
+1. Look through the [(**`content`**)](https://github.com/Tianyi2/2023_SP51_CMS_GroupB/tree/main/A01%20Content%20for%20Students) provided by the client.
+2. Check the team's progress according to the theme development workflow.
+3. Develop the theme with the help of the previous prototype (for example, when creating the **`lo-Fi prototype`**, you should look at the **`Design of each page`**)
+4. When developing the actual theme in code, please check the [**`deployment.md`**](https://github.com/Tianyi2/2023_SP51_CMS_GroupB/blob/main/deployment.md) for more information on code testing. 
 
 
 ## Theme Origin
