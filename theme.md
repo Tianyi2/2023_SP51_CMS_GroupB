@@ -30,10 +30,11 @@ Based on the client-provided content, we build our theme. The content the client
 #### Pages: 
 1. Home 
 2. About Us
-3. News
-4. Schedule / Our Programmes / Programmes / Program 
-5. Registration (Contact Us)
-6. ... (have not decided)
+3. News 
+4. Classes (Schedule / Our Programmes / Programmes / Program)
+5. Registration 
+6. Contact Us
+7. ... (have not decided)
 
 #### Contents: 
 1. Recent Event
@@ -68,18 +69,18 @@ Based on the client-provided content, we build our theme. The content the client
   - Image + Button (According to the Centre Logo 9) 
   - The three paragraphs (Image + text + button?)
   - Teaching Philosophy
-  - Our Teachers（Qualifications, Achievements, Awards, and previous career introductions?）
+  - Our Teachers (check the image provided by the client)
   - Awards (Detail -- images + descriptiion)
   - Academice Partner
   - Button to Contact Us / Schedule…
 
 ##### 3. News
-  - Static page + WP Blog?
+  - Static page + WP Post
   - Event (Tag Event)
   - Promotion (Tag Promotion)
   - Awards (Tag awards)
 
-##### 4. Schedule / Our Programmes / Programmes / Program
+##### 4. Classes (Schedule / Our Programmes / Programmes / Program)
   - Subject offeres (subjects)
   - Monthly fees
   - Time Table with filter (All subject / according to level)
