@@ -69,7 +69,7 @@ Based on the client-provided content, we build our theme. The content the client
   - Image + Button (According to the Centre Logo 9) 
   - The three paragraphs (Image + text + button?)
   - Teaching Philosophy
-  - Our Teachers (check the image provided by the client)
+  - Our Teachers (check the image provided by the client) (may add more as client did not provide much information here)
   - Awards (Detail -- images + descriptiion)
   - Academice Partner
   - Button to Contact Us / Schedule…
