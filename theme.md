@@ -108,6 +108,6 @@ Black: #000000
 ### Structure
 1. Design the component/content as blocks; each content should be inside an individual block.
 2. The block width should be 1150px / 90vw.
-3. Leave 40-60px margin between each block.
+3. Leave 60-80px margin between each block.
 
 
