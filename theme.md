@@ -91,12 +91,14 @@ Based on the client-provided content, we build our theme. The content the client
 
 
 ### Typology
-1. Use **Arial** for heading (titles)
-2. Use **Lota** for text
-3. ...... (Font style, font family, font weight, font size, spacings in each page)
+1. Use **Arial** for heading (titles).
+2. Use **Lota** for text.
+3. Use **80**, **60**, and **48** px for heading.
+4. ...... (Font style, font family, font weight, font size, spacings in each page).
 
 
 ### Colour
+Yellow: #F0E691, #B5A776, #62531c
 Green: #4CAE6A, #72EFE9
 Blue: #206FA3, #206FA3
 White: #FFFFFF
