@@ -91,7 +91,7 @@ Based on the client-provided content, we build our theme. The content the client
 
 
 ### Typology
-1. Use **Arial** for heading (titles).
+1. Use **Arial** or **Montserrat** for heading (titles).
 2. Use **Lota** for text.
 3. Use **80**, **60**, and **48** px for heading.
 4. ...... (Font style, font family, font weight, font size, spacings in each page).
