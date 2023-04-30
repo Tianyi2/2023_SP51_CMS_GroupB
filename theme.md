@@ -99,8 +99,8 @@ Based on the client-provided content, we build our theme. The content the client
 
 ### Colour
 - Yellow: #F0E691, #B5A776, #62531c
-- Green: #4CAE6A, #72EFE9
-- Blue: #206FA3, #206FA3
+- Green: #4CAE6A, #72EFE9, #2CCCC4, #41807C
+- Blue: #206FA3
 - White: #FFFFFF
 - Black: #000000
 
