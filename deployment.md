@@ -90,7 +90,7 @@ On your local computers and git repository, start coding first. After testing it
 </ul>
 
 ## Project workflow
-![Project-Workflow](https://i.ibb.co/C7mFG5y/development-workflow.png)
+![Project-Workflow](https://i.ibb.co/8rqx24x/project-workflow.png)
 
 ## Reference
 <ul>
