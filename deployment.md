@@ -37,7 +37,7 @@ WordPress was used to develop our website, and we will use some plugins to impro
 
 ## Environment Overview:
 
-<h2>Infrastructure Architect</h2>
+<h3>Infrastructure Architect</h3>
 <a><img src="https://i.ibb.co/520xPRD/Development-Workflow.jpg" alt="Development-Workflow" border="0"></a>
 
 <h3>Local Environment</h3>
