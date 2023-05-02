@@ -12,6 +12,7 @@ WordPress was used to develop our website, and we will use some plugins to impro
 5. [**Miro**](https://miro.com/welcomeonboard/T3AxU2VZNHVOTTY0TkpCa3k3d1o5dU9pdGk2WkZ1N3VxZlhiSUFNdHB2aTdVZDYxWWo0UFE3MVM3RG5nWHlDcXwzNDU4NzY0NTE0MzYwOTk4OTMwfDI=?share_link_id=921783354141)
 
 ### Development Workflow
+On your local computers and git repository, start coding first. After testing it in your local host environment, upload your code to GitHub. The code can then be tested on the staging website. You can update it to the hosting website if it runs smoothly on the staging website. Please keep reading for more details on version control, testing, automation, and deployment.
 ![Development-Workflow](https://i.ibb.co/C7mFG5y/development-workflow.png)
 
 ## Version Control
