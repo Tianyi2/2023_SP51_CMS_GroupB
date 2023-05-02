@@ -20,11 +20,11 @@ This folder mainly contains low-fidelity theme prototype drafts drawn by team me
 #### 4. [3402 Ass2.xlsx:](/3402%20Ass2.xlsx)
 This file is a file used to manage the project, which not only includes descriptions and introductions of some tasks that all team members need to perform in this project, but also includes a Gantt chart for managing the project completion progress. And some necessary information prompts for design.
 
-#### 4. [deployment.md:](/deployment.md)
+#### 5. [deployment.md:](/deployment.md)
 This is the development document of this project, which mainly describes our development and workflow for this project, as well as the deployment of the project and the required environment and tools.
 
-#### 4. [site.md:](/site.md)
+#### 6. [site.md:](/site.md)
 This document mainly describes some specific details of the project website, and introduces how to update and maintain the content and services on the website. In addition, this document provides an overview of the functions such as the plug-ins used by the website.
 
-#### 4. [theme.md:](/theme.md)
+#### 7. [theme.md:](/theme.md)
 This documentation is the working documentation on the custom theme for the project site, including its features, origin, creation, and how to update it.
