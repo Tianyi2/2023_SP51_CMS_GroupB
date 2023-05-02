@@ -18,7 +18,7 @@ This folder mainly contains the complete files for the Baizonn Learning Center W
 This folder mainly contains low-fidelity theme prototype drafts drawn by team members in the early stage of website development and design.
 
 #### 4. [3402 Ass2.xlsx:](/3402%20Ass2.xlsx)
-This file is a file used to manage the project, which not only includes descriptions and introductions of some tasks that all team members need to perform in this project, but also includes a Gantt chart for managing the project completion progress. And some necessary information prompts for design.
+This file is a file used to manage the project, which not only includes descriptions and introductions of some tasks that all team members need to perform in this project, but also includes a Gantt chart for managing the project completion progress. And some necessary design information.
 
 #### 5. [deployment.md:](/deployment.md)
 This is the development document of this project, which mainly describes our development and workflow for this project, as well as the deployment of the project and the required environment and tools.
