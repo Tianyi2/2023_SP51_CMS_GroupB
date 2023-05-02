@@ -3,3 +3,5 @@ Providing Baizonn with an attractive and easy to use website that can be maintai
 
 ##### Pages
 1. Index(Homepage)
+index is the home page of our website and by default is the first page all new visitors see. The current home page contains four sliding heros that can each be linked to different pages via buttons below, such as the registration page, the about us page, this index page and some other pages that have a slideshow plugin that provides some customisation to the site. If you need to change where it points, please feel free to do so via the WordPress editor.
+Below the heroes information there are also several introductory pages that give a brief overview of the Learning Centre from multiple perspectives in a self-questioning format. For the teaching styles section there is a clickable hyperlink that redirects the user to a youtube video with a more detailed introduction to the teaching styles.
