@@ -1,7 +1,6 @@
 # Project Overview
-<p>This project is completed by the students of Group B of CP3402 of James Cook University Singapore Campus, grade 2023.</p>
-<p>This github repository was created by Team B for the Baizonn Learning Center website project.</p>
-<p>This github repository includes the content required for the project website, all WordPress program files, custom theme files, website theme prototypes, and some necessary development and documentation files.</p>
+<p>This github repository was created by the Group B for the Baizonn Learning Center website project. This project is Provided by students of SP51, CP3402 Group B of James Cook University Singapore Campus in 2023.</p>
+<p>This Github repository contains some of the main files needed for the Baizonn Learning Center project. It includes the complete WordPress website program files of the project, as well as custom theme files, some design drawings, and some development documents, etc.</p>
 
 ## Project Contents
 
@@ -9,14 +8,23 @@
 
 #### 1. [A01 Content for Students](/A01%20Content%20for%20Students)
 
-This folder contains all the pictures and information files provided by Baizoon learning center, a large part of which we have displayed on the website.
+This folder mainly contains some materials provided by the Baizonn Learning Center, including some photos and illustrations, and also includes some detailed information files of the Baizonn Learning Center. A large part of it has been well displayed in the web page.
 
 #### 2. [BaizonnLearningCenterTheme:](/BaizonnLearningCenterTheme)
 
-This folder contains all WordPress files, including custom themes and some used plugins.
+This folder mainly contains the complete files for the Baizonn Learning Center WordPress website. As well as custom themes and some plugins used in WordPress.
 
 #### 3. [lo-Fi theme prototype:](/lo-Fi%20theme%20prototype)
-This folder mainly contains low-fidelity theme prototypes of all the pages we designed in the early stages of designing WordPress custom themes.
+This folder mainly contains low-fidelity theme prototype drafts drawn by team members in the early stage of website development and design.
 
 #### 4. [3402 Ass2.xlsx:](/3402%20Ass2.xlsx)
-This file contains all task descriptions, Gantt charts and design information for this project. Its main function is to provide clear task information and submission dates for all members so that the work of the team can progress smoothly
+This file is a file used to manage the project, which not only includes descriptions and introductions of some tasks that all team members need to perform in this project, but also includes a Gantt chart for managing the project completion progress. And some necessary information prompts for design.
+
+#### 4. [deployment.md:](/deployment.md)
+This is the development document of this project, which mainly describes our development and workflow for this project, as well as the deployment of the project and the required environment and tools.
+
+#### 4. [site.md:](/site.md)
+This document mainly describes some specific details of the project website, and introduces how to update and maintain the content and services on the website. In addition, this document provides an overview of the functions such as the plug-ins used by the website.
+
+#### 4. [theme.md:](/theme.md)
+This documentation is the working documentation on the custom theme for the project site, including its features, origin, creation, and how to update it.
