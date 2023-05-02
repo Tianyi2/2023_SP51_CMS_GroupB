@@ -4,8 +4,8 @@ You will find all the details you require in this document to work with others t
 ##### Theme Development Workflow
 1. Describe the component on each page in words [(**`Design of each page`**)](#design-of-each-page)
 2. Sketch out the theme design with paper and pen [(**`lo-Fi theme prototype`**)](https://github.com/Tianyi2/2023_SP51_CMS_GroupB/tree/main/lo-Fi%20theme%20prototype)
-3. Create a hi-Fi prototype (**`Figma`**)
-4. Develop the actual theme in code (**`wp-content`**)
+3. Create a hi-Fi prototype [(**`Figma`**)](https://www.figma.com/file/HstgJLk0fDn5zr4OqJ1Owg/Wireframing-in-Figma?node-id=0-1&t=40p1tslqPE3JTJZ9-0)
+4. Develop the actual theme in code [(**`BaizonnLearningCenterTheme`**)](https://github.com/Tianyi2/2023_SP51_CMS_GroupB/tree/main/BaizonnLearningCenterTheme)
 
 #####  Before Your Theme Development
 1. Look through the [(**`content`**)](https://github.com/Tianyi2/2023_SP51_CMS_GroupB/tree/main/A01%20Content%20for%20Students) provided by the client.
