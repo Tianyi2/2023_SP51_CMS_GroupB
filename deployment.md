@@ -89,8 +89,10 @@ On your local computers and git repository, start coding first. After testing it
     <li>No ability to cancel your contract</li>
 </ul>
 
-## Reference
+## Project workflow
+![Project-Workflow](https://i.ibb.co/C7mFG5y/development-workflow.png)
 
+## Reference
 <ul>
 <li><a href="https://github.com/Tianyi2/2023_SP51_CMS_GroupB">1. Visit Our Github</a></li>
 <li><a href="https://trello.com/invite/b/yb2bk5GC/ATTIea37c78a50d9dc8690e77df3b685c368A2789FF8/3402-ass2">2. Visit Our Trello</a></li>
@@ -101,3 +103,7 @@ On your local computers and git repository, start coding first. After testing it
 <li><a href="https://zh.wikipedia.org/zh-cn/Amazon_EC2">7. Amazon EC2</a></li>
 <li><a href="https://www.websiteplanet.com/web-hosting/x10hosting/">8. X10Hosting Review 2023 - Is It Worth It?</a></li>
 </ul>
+
+
+
+
