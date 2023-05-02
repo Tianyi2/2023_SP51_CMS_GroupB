@@ -1,8 +1,7 @@
 # Deployment Overview
-The name of Web is Baizonn Learning Center.
-The main function of the website is to help learning centers increase student enrollment, mainly targeting high school students and their parents in Singapore.
-Our website is mainly written using WordPress, and we will use some plugins to enhance some functions of the website.
-Also, we will use some instant messaging tools to keep the communication between the group to keep our work and keep the website updated in real time.
+The name of the Website is Baizonn Learning Center.
+The website's objective is to help the learning center increase student enrollment. The website is designed to target high school students and their parents in Singapore.
+WordPress was used to develop our website, and we will use some plugins to improve some of its features. In addition, our team will create the website together using collaboration tools like GitHub, Discord, and Trello
 
 ## Project Management
 
