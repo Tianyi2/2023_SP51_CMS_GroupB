@@ -1,7 +1,7 @@
 # Deployment Overview
 The name of the Website is Baizonn Learning Center.
 The website's objective is to help the learning center increase student enrollment. The website is designed to target high school students and their parents in Singapore.
-WordPress was used to develop our website, and we will use some plugins to improve some of its features. In addition, our team will create the website together using collaboration tools like GitHub, Discord, Miro, Figam and Trello.
+WordPress was used to develop our website, and we will use some plugins to improve some of its features. In addition, our team will create the website together using collaboration tools like GitHub, Discord, Miro, Figam and Trello. Please view the [(**`Development Workflow`**)](#development-workflow), [(**`Deployment Workflow`**)](#deployment-workflow), and [(**`Project Workflow`**)](#project-workflow) before coding.
 
 ## Project Management
 ### Using applications:
@@ -42,7 +42,7 @@ On your local computers and git repository, start coding first. After testing it
 
 ## Environment Overview:
 
-### Infrastructure Architect (Deployment Workflow)
+### Deployment Workflow
 <a><img src="https://i.ibb.co/520xPRD/Development-Workflow.jpg" alt="Deployment-Workflow" border="0"></a>
 
 <h3>Local Environment</h3>
