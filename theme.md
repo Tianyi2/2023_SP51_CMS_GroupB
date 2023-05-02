@@ -14,13 +14,6 @@ You will find all the details you require in this document to work with others t
 4. When developing the actual theme in code, please check the [**`deployment.md`**](https://github.com/Tianyi2/2023_SP51_CMS_GroupB/blob/main/deployment.md) for more information on code testing. 
 
 
-## Theme Origin
-..... (Where did we start the theme design)
-
-
-## Theme Folder Overview
-..... (Description of the use of each file)
-
 
 ## Theme Design
 Based on the client-provided content, we build our theme. The content the client wishes to offer on the website is the first thing we look through and note down. Then, we use blocks to draw out the arrangement of each component. We build the theme in Figma and code it out after some discussions.
