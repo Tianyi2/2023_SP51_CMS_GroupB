@@ -1,5 +1,5 @@
 # Deployment Overview
-The name of Web is [].
+The name of Web is Baizonn Learning Center.
 The main functions of the website are []
 Our website is mainly written using WordPress, and we will use some plugins to enhance some functions of the website.
 Also, we will use some instant messaging tools to keep the communication between the group to keep our work and keep the website updated in real time.
