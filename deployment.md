@@ -4,11 +4,14 @@ The website's objective is to help the learning center increase student enrollme
 WordPress was used to develop our website, and we will use some plugins to improve some of its features. In addition, our team will create the website together using collaboration tools like GitHub, Discord, Miro, Figam and Trello.
 
 ## Project Management
+### Using applications:
 1. [**Github**](https://github.com/Tianyi2/2023_SP51_CMS_GroupB)
 2. [**Discord**](https://discord.gg/stXaHdK993)
 3. [**Trello**](https://trello.com/invite/b/yb2bk5GC/ATTIea37c78a50d9dc8690e77df3b685c368A2789FF8/3402-ass2)
 4. [**Figma**](https://www.figma.com/file/HstgJLk0fDn5zr4OqJ1Owg/Wireframing-in-Figma?node-id=0-1&t=40p1tslqPE3JTJZ9-0)
 5. [**Miro**](https://miro.com/welcomeonboard/T3AxU2VZNHVOTTY0TkpCa3k3d1o5dU9pdGk2WkZ1N3VxZlhiSUFNdHB2aTdVZDYxWWo0UFE3MVM3RG5nWHlDcXwzNDU4NzY0NTE0MzYwOTk4OTMwfDI=?share_link_id=921783354141)
+
+### Development Workflow
 
 ## Version Control
 
@@ -37,7 +40,7 @@ WordPress was used to develop our website, and we will use some plugins to impro
 
 ## Environment Overview:
 
-<h3>Infrastructure Architect</h3>
+### Infrastructure Architect (Deployment Workflow)
 <a><img src="https://i.ibb.co/520xPRD/Development-Workflow.jpg" alt="Development-Workflow" border="0"></a>
 
 <h3>Local Environment</h3>
