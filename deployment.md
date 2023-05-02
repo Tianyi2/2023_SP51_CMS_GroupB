@@ -12,6 +12,7 @@ WordPress was used to develop our website, and we will use some plugins to impro
 5. [**Miro**](https://miro.com/welcomeonboard/T3AxU2VZNHVOTTY0TkpCa3k3d1o5dU9pdGk2WkZ1N3VxZlhiSUFNdHB2aTdVZDYxWWo0UFE3MVM3RG5nWHlDcXwzNDU4NzY0NTE0MzYwOTk4OTMwfDI=?share_link_id=921783354141)
 
 ### Development Workflow
+![Development-Workflow](https://i.ibb.co/C7mFG5y/development-workflow.png)
 
 ## Version Control
 
@@ -41,7 +42,7 @@ WordPress was used to develop our website, and we will use some plugins to impro
 ## Environment Overview:
 
 ### Infrastructure Architect (Deployment Workflow)
-<a><img src="https://i.ibb.co/520xPRD/Development-Workflow.jpg" alt="Development-Workflow" border="0"></a>
+<a><img src="https://i.ibb.co/520xPRD/Development-Workflow.jpg" alt="Deployment-Workflow" border="0"></a>
 
 <h3>Local Environment</h3>
 <p><i><b>localhost E.g. WordPress</b></i></p>
