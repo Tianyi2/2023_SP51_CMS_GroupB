@@ -1,7 +1,7 @@
 # Deployment Overview
 The name of the Website is Baizonn Learning Center.
 The website's objective is to help the learning center increase student enrollment. The website is designed to target high school students and their parents in Singapore.
-WordPress was used to develop our website, and we will use some plugins to improve some of its features. In addition, our team will create the website together using collaboration tools like GitHub, Discord, and Trello
+WordPress was used to develop our website, and we will use some plugins to improve some of its features. In addition, our team will create the website together using collaboration tools like GitHub, Discord, Miro, Figam and Trello.
 
 ## Project Management
 
