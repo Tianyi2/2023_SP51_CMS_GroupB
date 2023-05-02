@@ -44,7 +44,7 @@ Based on the client-provided content, we build our theme. The content the client
 
 ### Design of each page
 ##### 1. Home page
-  - Image (Welcome to BAIZONN) + Button (Maybe can scroll) + Promotion?
+  - Image (Welcome to BAIZONN) + Button (Maybe can scroll)
   - Event + Button
   - Explore our Programmes (Subjects we Provide + Button)
   - Why us?
@@ -54,7 +54,6 @@ Based on the client-provided content, we build our theme. The content the client
     - STEM (Description + image from content)
     - Button to About Us
   - Classroom images
-  - Awards (brief)
   - Video
   - Button to Contact Us / Schedule
 
@@ -65,7 +64,7 @@ Based on the client-provided content, we build our theme. The content the client
   - Our Teachers (check the image provided by the client) (may add more as client did not provide much information here)
   - Awards (Detail -- images + descriptiion)
   - Academice Partner
-  - Button to Contact Us / Schedule…
+  - Button to Contact Us / Schedule
 
 ##### 3. Classes (Schedule / Our Programmes / Programmes / Program)
   - Subject offeres (subjects)
@@ -73,9 +72,9 @@ Based on the client-provided content, we build our theme. The content the client
   - Time Table with filter (All subject / according to level)
 
 ##### 4. Registration
-  - Our achievements
+  - Promotion 
   - Registration contact form
-  - A block (button link to contact us page)
+  - Some advantages of joining us
 
 ##### 5. Contact Us
   - Contact Details (Side by side)
