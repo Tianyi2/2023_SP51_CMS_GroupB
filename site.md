@@ -8,3 +8,7 @@ Below the heroes information there are also several introductory pages that give
 
 2. About us
 About Us is a page consisting of several images and text blocks. The first section consists of three interlocking parallel blocks of text and images, below each of which there is a button to locate a separate section below, for viewing teaching ideas, viewing our awards, and viewing our teachers. In the view our awards section, we have also created interchangeable tabs to distinguish between awards and the latest news. Below this is a section listing the teachers who have taught at our institution and their qualifications and achievements. At the bottom of the section, there is a contact us button which will direct the user to the contact us page.
+
+3.Classes
+This page shows the subjects offered by Baizonn learning center: Science, Mathematics and Advanced Courses. In addition, users are shown the cost of different levels of courses and classes' schedules. The last block on the page is the button that leads to the registration page.
+
