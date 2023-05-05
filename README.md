@@ -2,16 +2,15 @@
 This is a repository for creating a WordPress content management system website for the Baizonn Learning Center. This project contains a custom theme, website content, design sketches and three development markdown files. The project is completed by students from James Cook University Singapore for CP3402 Content Management System.
 
 ## Project Contents
-
-<p>Below is a list of the folders and their purpose within the files contained in the repository, with links provided.</p>
+<p>This is a list of the files inside the project with their descriptions and hyperlinks:</p>
 
 #### 1. [A01 Content for Students](/A01%20Content%20for%20Students)
 
-This folder mainly contains some materials provided by the Baizonn Learning Center, including some photos and illustrations, and also includes some detailed information files of the Baizonn Learning Center. A large part of it has been well displayed in the web page.
+This folder mainly contains some materials provided by the Baizonn Learning Center, including some photos and illustrations, and also includes some detailed information files of the Baizonn Learning Center. A large part of it has been well displayed on the web page.
 
 #### 2. [BaizonnLearningCenterTheme:](/BaizonnLearningCenterTheme)
 
-This folder mainly contains the complete files for the Baizonn Learning Center WordPress website. As well as custom themes and some plugins used in WordPress.
+This folder contains the files for the Baizonn Learning Center custom theme. Including the images used, HTML, PHP, and CSS files.
 
 #### 3. [lo-Fi theme prototype:](/lo-Fi%20theme%20prototype)
 This folder mainly contains low-fidelity theme prototype drafts drawn by team members in the early stage of website development and design.
