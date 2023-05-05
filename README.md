@@ -19,7 +19,7 @@ This folder contains low-fidelity theme prototype drafts drawn by team members i
 This Excel file contains descriptions and introductions of some tasks that all team members need to perform in this project, a Gantt chart for time management, and a summary of the content provided by the client.
 
 #### 5. [deployment.md:](/deployment.md)
-This is the development document of this project, which mainly describes our development and workflow for this project, as well as the deployment of the project and the required environment and tools.
+This is the development document of this project, which describes our project, development, and deployment workflows. It also describes the development environments and tools we used.
 
 #### 6. [site.md:](/site.md)
 This document mainly describes some specific details of the project website, and introduces how to update and maintain the content and services on the website. In addition, this document provides an overview of the functions such as the plug-ins used by the website.
