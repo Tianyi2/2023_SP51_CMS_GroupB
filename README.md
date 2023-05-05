@@ -13,10 +13,10 @@ This folder mainly contains some materials provided by the Baizonn Learning Cent
 This folder contains the files for the Baizonn Learning Center custom theme. Including the images used, HTML, PHP, and CSS files.
 
 #### 3. [lo-Fi theme prototype:](/lo-Fi%20theme%20prototype)
-This folder mainly contains low-fidelity theme prototype drafts drawn by team members in the early stage of website development and design.
+This folder contains low-fidelity theme prototype drafts drawn by team members in the early stage of website development and design.
 
 #### 4. [3402 Ass2.xlsx:](/3402%20Ass2.xlsx)
-This file is a file used to manage the project, which not only includes descriptions and introductions of some tasks that all team members need to perform in this project, but also includes a Gantt chart for managing the project completion progress. And some necessary design information.
+This Excel file contains descriptions and introductions of some tasks that all team members need to perform in this project, a Gantt chart for time management, and a summary of the content provided by the client.
 
 #### 5. [deployment.md:](/deployment.md)
 This is the development document of this project, which mainly describes our development and workflow for this project, as well as the deployment of the project and the required environment and tools.
