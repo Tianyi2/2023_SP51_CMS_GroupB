@@ -25,4 +25,4 @@ This is the development document of this project, which describes our project, d
 This document mainly describes some specific details of the project website, and introduces how to update and maintain the content and services on the website. In addition, this document provides an overview of the functions such as the plug-ins used by the website.
 
 #### 7. [theme.md:](/theme.md)
-This documentation is the working documentation on the custom theme for the project site, including its features, origin, creation, and how to update it.
+This documentation is the working documentation on the custom theme for the project site. It includes the theme development workflow, structure of the theme, components on each page, typology, color, and layout.
