@@ -1,6 +1,5 @@
 # Project Overview
-<p>This github repository was created by the Group B for the Baizonn Learning Center website project. This project is Provided by students of SP51, CP3402 Group B of James Cook University Singapore Campus in 2023.</p>
-<p>This Github repository contains some of the main files needed for the Baizonn Learning Center project. It includes the complete WordPress website program files of the project, as well as custom theme files, some design drawings, and some development documents, etc.</p>
+This is a repository for creating a WordPress content management system website for the Baizonn Learning Center. This project contains a custom theme, website content, design sketches and three development markdown files. The project is completed by students from James Cook University Singapore for CP3402 Content Management System.
 
 ## Project Contents
 
