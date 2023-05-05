@@ -1,4 +1,4 @@
-# Website overview
+# site.md overview
 This document explains the purpose of each page, its content, and how all the plug-ins are used. Additionally, this document describes how to add a new post, how to update the content on an existing page, and how the maintainer can use each plug-in. 
 
 ## Pages
