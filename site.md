@@ -28,7 +28,7 @@ The website maintainer may update the awards as a post that includes the award's
 
 ## Plugins
 ##### 1. myStickymenu
-It’s mainly known as a sticky navigation bar plugin, it can also be used to add a welcome banner to the bottom of your screen, which you can populate with a message, CTA, or sign-up prompt. The banner is sticky, meaning it stays on the user’s screen as they scroll. Users can hide this banner with a click if they’d prefer.
+It is a sticky navigation bar plugin, it can also be used to add a welcome banner to the bottom of the screen, which we can populate with a message, CTA, or sign-up prompt. The banner is sticky, meaning it stays on the user’s screen as they scroll. Users can hide this banner with a click if they’d prefer. The maintainer may add the event and promotion using the plugin.
 
 ##### 2. WPForms
 WPForms is a comprehensive contact form plugin. Its drag-and-drop form editor and pre-made starter templates help you create any form for your website in no time. All forms created using this plugin are responsive, meaning that they will work smoothly on mobile devices. They also come with hCaptcha and reCAPTCHA spam protection measures. Embedding any form to a WordPress page or post is easy, whether by using the included block or a shortcode.
