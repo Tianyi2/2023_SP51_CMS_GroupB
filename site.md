@@ -9,7 +9,7 @@ The index is the home page of our website and the first page all new visitors se
 About Us is a page consisting of several images and text blocks. The first section consists of three interlocking parallel blocks of text and images, below each of which there is a button to locate a separate section below, for viewing teaching ideas, viewing our awards, and viewing our teachers. We have made tabs to choose between awards and the lastest news in in view of our awards section. The teachers who work at our school are listed below, along with information on their education and accomplishments.  A contact us button that takes the user to the contact us page is located at the bottom of the page.
 
 ##### 3. Classes
-This page shows the subjects offered by Baizonn learning center: Science, Mathematics and Advanced Courses. In addition, users are shown the cost of different levels of courses and classes' schedules. The last block on the page is the button that leads to the registration page.
+This page shows the subjects offered by the Baizonn learning center. In addition, users can view the cost of different levels of courses and class schedules. The block design below the class schedule is to encourage the user to register for the classes and link to the registration page.
 
 ##### 4. Registration
 The registration page includes advertisements for the Learning Center that are intended to draw consumers as well as a registration form with the necessary data to complete the registration. The awards and accomplishments of our group are listed here.
