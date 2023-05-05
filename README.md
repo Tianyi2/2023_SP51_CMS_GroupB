@@ -22,7 +22,7 @@ This Excel file contains descriptions and introductions of some tasks that all t
 This is the development document of this project, which describes our project, development, and deployment workflows. It also describes the development environments and tools we used.
 
 #### 6. [site.md:](/site.md)
-This document mainly describes some specific details of the project website, and introduces how to update and maintain the content and services on the website. In addition, this document provides an overview of the functions such as the plug-ins used by the website.
+This document describes the details of each web page and introduces how to update and maintain the content and services on the website. In addition, this document provides an overview of all the plugins used and how a maintainer could use them to update the website.
 
 #### 7. [theme.md:](/theme.md)
 This documentation is the working documentation on the custom theme for the project site. It includes the theme development workflow, structure of the theme, components on each page, typology, color, and layout.
