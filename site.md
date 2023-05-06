@@ -44,3 +44,6 @@ We used Create Block Theme to create new theme, list and preview font families a
 
 ##### 6. Gutenberg
 Gutenberg introduces a modular approach to modifying our entire site. We used  Gutenberg to add and adjust widgets, design our site headers, footers, and navigation with full site editing support.
+
+##### 7. Smart Slider 3
+We used Smart Slider 3  to create sliders. We can edit our slides as we used to in page builders. Drop layers after each other and structure them with rows and columns.
