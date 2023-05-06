@@ -42,10 +42,8 @@ Visualizer is a table plugin to incorporate visual elements like tables and char
 ##### 5. Create Block Theme
 We used Create Block Theme to create our block theme. Maintainer can easily change the font styles and colors used with the plugin. Besides, it enables the maintainer to edit the content in the browser.
 
-list and preview font families and font faces embeded in our theme and embed local font assets in our theme.
-
 ##### 6. Gutenberg
-Gutenberg introduces a modular approach to modifying our entire site. We used  Gutenberg to add and adjust widgets, design our site headers, footers, and navigation with full site editing support.
+We used Gutenberg together with the Create Block Theme plugin together to effectively create the block elements. This plugin provides more custom features like the button styles and grid layout. The maintainer can use it to edit the block theme with a more advanced style.
 
 ##### 7. Smart Slider 3
-We used Smart Slider 3  to create sliders. We can edit our slides as we used to in page builders. Drop layers after each other and structure them with rows and columns.
+We used Smart Slider 3  to create sliders on the home page. This plugin enables us to edit the sliders in the browser. It also provides some unique layouts that the maintainer can make use of to update the website. 
