@@ -40,7 +40,9 @@ This plugin is used to add a customized Google map to the website. The map shows
 Visualizer is a table plugin to incorporate visual elements like tables and charts in the WordPress site. We use it to create the class schedule by importing the data using a CSV file. There is also a setting for front-end actions to set whether users can print, save, or export the table or chart. The maintainer may import a new CSV file with the timetable to update the schedule.
 
 ##### 5. Create Block Theme
-We used Create Block Theme to create new theme, list and preview font families and font faces embeded in our theme and embed local font assets in our theme.
+We used Create Block Theme to create our block theme. Maintainer can easily change the font styles and colors used with the plugin. Besides, it enables the maintainer to edit the content in the browser.
+
+list and preview font families and font faces embeded in our theme and embed local font assets in our theme.
 
 ##### 6. Gutenberg
 Gutenberg introduces a modular approach to modifying our entire site. We used  Gutenberg to add and adjust widgets, design our site headers, footers, and navigation with full site editing support.
