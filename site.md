@@ -36,11 +36,11 @@ WPForms is a comprehensive contact form plugin. Its drag-and-drop form editor an
 ##### 3. WP Go Maps (formerly WP Google Maps)
 This plugin is used to add a customized Google map to the website. The map shows the exact location of the learning center and the location of it at the top left corner. The maintainer may update the location with the plugin easily.
 
-##### 4. Forminator
-Forminator is a WordPress quiz plugin that lets you build forms, surveys, polls, and calculations. Thanks to its expandability and integrated features, we consider this the best quiz plugin for WordPress sites. Using Forminator, we can create two types of quizzes – knowledge and personality quizzes. In addition, it lets us choose between non-paginated and paginated quiz designs. The editor comes with a drag-and-drop builder that lets  arrange questions and answers easily. The quiz appearance is also completely customizable, from the layout and fonts to its colors. We can also add custom CSS and translation files to your quizzes.
-
-##### 5. Connections Business Directory
-Connections Business Directory is a free WordPress directory plugin for posting compelling information about your business location or staff members. The plugin lets us use repeatable fields to display information like address, phone number, and email. You can set each entry as public, private – for logged-in users only – and unlisted – meaning only administrators can see it.
-
-##### 6. Visualizer
+##### 4. Visualizer
 Visualizer is a table plugin to incorporate visual elements like tables and charts in the WordPress site. We use it to create the class schedule by importing the data using a CSV file. There is also a setting for front-end actions to set whether users can print, save, or export the table or chart. The maintainer may import a new CSV file with the timetable to update the schedule.
+
+##### 5. Create Block Theme
+We used Create Block Theme to create new theme, list and preview font families and font faces embeded in our theme and embed local font assets in our theme.
+
+##### 6. Gutenberg
+Gutenberg introduces a modular approach to modifying our entire site. We used  Gutenberg to add and adjust widgets, design our site headers, footers, and navigation with full site editing support.
