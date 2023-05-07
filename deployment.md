@@ -43,7 +43,11 @@ On your local computers and git repository, start coding first. After testing it
 ## Environment Overview:
 
 ### Deployment Workflow
-<a><img src="https://i.ibb.co/520xPRD/Development-Workflow.jpg" alt="Deployment-Workflow" border="0"></a>
+#### Envisioned Process
+<a><img src="https://i.ibb.co/nM8VCVZ/Development-Workflow.jpg" alt="Deployment-Workflow" border="0"></a>
+
+#### Actual Process
+<a><img src="https://i.ibb.co/xsjgFmv/Development-Workflow-END.jpg" alt="Development-Workflow-END" border="0"></a>
 
 <h3>Local Environment</h3>
 <p><i><b>localhost E.g. WordPress</b></i></p>
