@@ -43,7 +43,7 @@ On your local computers and git repository, start coding first. After testing it
 ## Environment Overview:
 
 ### Deployment Workflow Map
-#### Envisioned Process
+#### Planned Process
 <a><img src="https://i.ibb.co/nM8VCVZ/Development-Workflow.jpg" alt="Deployment-Workflow" border="0"></a>
 
 #### Actual Process
